@@ -3,7 +3,7 @@
 
 # Kubeform Dynatrace Provider Code Generator
 
-Generates code for Kubeform Dynatrace Provider
+Kubeform code generator for [Terraform Dynatrace Provider](https://github.com/dynatrace-oss/terraform-provider-dynatrace)
 
 ## Installation
 
