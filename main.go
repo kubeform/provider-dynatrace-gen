@@ -43,6 +43,7 @@ func main() {
 		ProviderData:         provider.Provider(),
 		ProviderImportPath:   "github.com/dynatrace-oss/terraform-provider-dynatrace/provider",
 		ProviderConfig:       "dynatrace-oss/dynatrace",
+		TfPluginVersion:      "v2.8.0",
 		Version:              "v1alpha1",
 		APIsPath:             apisPath,
 		ControllerPath:       controllerPath,
